@@ -1,0 +1,46 @@
+#logo {
+    float: left;
+}
+
+#logo img {
+    height: 100px;
+}
+
+#Image {
+    width: 800px;
+    height: 800px;
+    padding-right: 100px;
+}
+
+#primaryLinks {
+    background-color: lightgray;
+    height: 50px;
+    line-height: 50px;
+    width: auto;
+    text-align: right;
+    padding-right: 10px;
+    float: right;
+}
+
+#primaryLinks li {
+    display: inline;
+}
+
+#primaryLinks menu {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#wrapper {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#primaryContent {
+    clear: both;
+}
+
+li a {
+    padding-right: 10px;
+}
